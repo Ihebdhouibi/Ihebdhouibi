@@ -25,6 +25,8 @@
 
 <br>
 <img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" >
+<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original-wordmark.svg"style="padding-right:10px;">
+<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" style="padding-right:10px;">
 <img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original-wordmark.svg" style="padding-right:10px;">
 <img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original-wordmark.svg" style="padding-right:10px;">
 <img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original-wordmark.svg" style="padding-right:10px;">
@@ -42,15 +44,12 @@
 
 ## Stats 
 
-<img align="left" alt="Ihebdhouibi | Github stats" src="https://github-readme-stats.vercel.app/api?username=Ihebdhouibi&show_icons=true&hide_border=true" />
+<img align="left" alt="Ihebdhouibi | Github stats" src="https://github-readme-stats.vercel.app/api?username=Ihebdhouibi&show_icons=true&hide_border=true&theme=merko" style="height:287px"/>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihebdhouibi&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <br>
 <br>
 
