@@ -1,5 +1,5 @@
 
-## Hi There! I am Iheb dhouibi :wave: 
+## Hi There! I am Iheb dhouibi - aka [houb][website] :wave: 
 <br>
 
 
@@ -11,19 +11,20 @@
 
 ## I am a software engineer from Tunisia
 
-<hr>
+
 
 - Looking for a junior software engineer position 
 - Currently learning NLP and Fastapi/Django 
 - I love camping and traveling :camping: :airplane:
-- 2022 Goal : Get my first tech job | relocate to Europe/America 
+- Music addict :notes: 
+- 2022 Goal : Get my first tech job :computer: | Contribute to open source :page_with_curl:| relocate to Europe/America :earth_americas:
 
 ## Languages and Frameworks:
 
-<hr>
+
 
 <br>
-<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" style="padding-right:10px;">
+<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" >
 <img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original-wordmark.svg" style="padding-right:10px;">
 <img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original-wordmark.svg" style="padding-right:10px;">
 <img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original-wordmark.svg" style="padding-right:10px;">
@@ -39,8 +40,22 @@
 <br>
 <br>
 
+## Stats 
+
+<img align="left" alt="Ihebdhouibi | Github stats" src="https://github-readme-stats.vercel.app/api?username=Ihebdhouibi&show_icons=true&hide_border=true" />
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Let's Connect
-<hr>
+
 
 ### Email me :email:
 
