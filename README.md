@@ -14,7 +14,7 @@
 
 
 - Looking for a junior software engineer position 
-- Currently learning NLP and Fastapi/Django 
+- Currently learning Docker/Kubernetes and Fastapi/Django 
 - I love camping and traveling :camping: :airplane:
 - Music addict :notes: 
 - 2022 Goal : Get my first tech job :computer: | Contribute to open source :page_with_curl:| relocate to Europe/America :earth_americas:
@@ -44,9 +44,9 @@
 
 ## Stats 
 
-<img align="left" alt="Ihebdhouibi | Github stats" src="https://github-readme-stats.vercel.app/api?username=Ihebdhouibi&show_icons=true&hide_border=true&theme=merko" style="height:287px;"/>
+<img align="left" alt="Ihebdhouibi | Github stats" src="https://github-readme-stats.vercel.app/api?username=Ihebdhouibi&show_icons=true&hide_border=true&theme=merko" style="height:287px; width:350px"/>
 
-<img align="left" alt="Ihebdhouibi | Languages status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihebdhouibi&theme=merko&hide_border=true" />
+<img align="left" alt="Ihebdhouibi | Languages status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihebdhouibi&theme=merko&hide_border=true" style="height:287px; width:350px"/>
 
 
 
