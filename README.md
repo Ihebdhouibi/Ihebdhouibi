@@ -13,11 +13,11 @@
 
 
 
-- Looking for a junior software engineer position 
-- Currently learning Docker/Kubernetes and Fastapi/Django 
+- Always open for new challenges 
+- Currently doing OpenEdge & .Net developpement  
 - I love camping and traveling :camping: :airplane:
 - Music addict :notes: 
-- 2022 Goal : Get my first tech job :computer: | Contribute to open source :page_with_curl:| relocate to Europe/America :earth_americas:
+
 
 ## Languages and Frameworks:
 
