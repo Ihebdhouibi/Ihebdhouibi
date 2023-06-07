@@ -24,7 +24,7 @@
 
 
 <br>
-
+<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
 <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" >
 <img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" >
 <img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original-wordmark.svg"style="padding-right:10px;">
