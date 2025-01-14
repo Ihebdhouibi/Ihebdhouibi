@@ -14,7 +14,7 @@
 
 
 - Always open for new challenges 
-- Currently doing OpenEdge & .Net developpement  
+- Currently doing NLP, Computer vision and Python developpement  
 - I love camping and traveling :camping: :airplane:
 - Music addict :notes: 
 
